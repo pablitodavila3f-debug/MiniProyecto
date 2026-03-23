@@ -202,7 +202,7 @@ void buscarEstudiante() {
 
     cout << "  Nombre a buscar: ";
     string busqueda;
-    getline(cin, busqueda);
+    getline(cin, busqueda); 
 
     bool encontrado = false;
     for (int i = 0; i < totalEstudiantes; i++) {
