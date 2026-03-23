@@ -74,7 +74,7 @@ int main() {
 }
 
 // MENU PRINCIPAL
-void mostrarMenu() {
+void mostrarMenu() { 
     
     cout << "  ========================================"<< endl;
     cout << "         M E N U   P R I N C I P A L      "<< endl;
