@@ -234,7 +234,7 @@ void mostrarMejorYPeor() {
         pausar();
         return;
     }
-
+ 
     int indiceMejor = 0;
     int indicePeor  = 0;
 
