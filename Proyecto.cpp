@@ -258,4 +258,4 @@ void mostrarMejorYPeor() {
 void pausar() {
     cout << "\n  Presiona Enter para continuar...";
     cin.ignore(1000, '\n');
-}
+} 
