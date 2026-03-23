@@ -242,7 +242,7 @@ void mostrarMejorYPeor() {
         if (calcularPromedio(i) > calcularPromedio(indiceMejor)) indiceMejor = i;
         if (calcularPromedio(i) < calcularPromedio(indicePeor))  indicePeor  = i;
     }
-
+ 
     cout << "  Mejor promedio:"<< endl;
     cout << "  Nombre  : " << nombres[indiceMejor] << "\n";
     cout << "  Promedio: " << calcularPromedio(indiceMejor) << "\n";
