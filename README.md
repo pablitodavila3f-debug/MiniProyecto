@@ -1,7 +1,7 @@
 # MINI PROYECTO NRO 1
 ## Autor
  **Pablo Dávila**.
-## Descripción
+## Descripción 
 Este proyecto consiste en un programa en C++ que permite registrar, almacenar y procesar notas de estudiantes mediante un sistema en consola.
 
 El sistema fue desarrollado como parte del mini-proyecto del bootcamp "Programación de Cero a POO", aplicando estructuras básicas de programación como arreglos, funciones, validaciones y control de flujo.
