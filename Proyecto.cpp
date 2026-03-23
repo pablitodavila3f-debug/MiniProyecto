@@ -199,7 +199,7 @@ void buscarEstudiante() {
         pausar();
         return;
     }
-
+ 
     cout << "  Nombre a buscar: ";
     string busqueda;
     getline(cin, busqueda); 
