@@ -104,7 +104,7 @@ bool nombreValido(const string& nombre) {
     return false;
 }
 
-// METODO PARA REGISTRAR ESTUDIANTE
+// METODO PARA REGISTRAR ESTUDIANTE 
 void registrarEstudiante() {
     cout << " ** REGISTRAR ESTUDIANTE ** "<< endl;
 
