@@ -131,7 +131,7 @@ void registrarEstudiante() {
             cin  >> nota;
             if (cin.fail()) {
                 cin.clear();
-                cin.ignore(1000, '\n');
+                cin.ignore(1000, '\n'); 
                 nota = -1;
             }
             if (nota < 0 || nota > 10)
